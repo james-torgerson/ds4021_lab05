@@ -1,2 +1,4 @@
 # ds4021_lab05
-repo for working on 5th lab
+Group 4 Repository for working on lab 05
+
+**Group Members:** Kaitlin Luu, Natalie Schweickert, James Torgerson
